@@ -1,0 +1,7 @@
+$ git checkout main
+$ git merge feature-login
+Updating a1b2c3d..d4e5f6g
+Fast-forward
+ login.cpp | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+ create mode 100644 login.cpp
